@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "token": "YOUR-DISCORD-BOT-TOKEN-HERE",
+  "openai": "OpenAI API KEY HERE",
+  "openai2": "OpenAI API KEY HERE(You can use the same one but if you want to separate them to see how much it cost seperately you can use another one)",
+  "mongodb": "MongoDB Connection String"
+}
