@@ -9,7 +9,7 @@ This is a WhatsApp bot that can interact with users in direct messages (DMs) and
 - **Automated Responses**: Provides automated responses based on predefined commands.
 - **Multi-Language Support**: Supports multiple languages for a wider user base.
 - **Extensible**: Easily add new features and commands.
-- **Check out** our bot on [WhatsApp](https://wa.me/12345678901) for more information.
+- **Check out** our bot on [WhatsApp](https://wa.me/15487080896) for more information.
   
 
 ### Prerequisites
